@@ -1,0 +1,20 @@
+{
+  "name": "kodi-rpc",
+  "version": "1.0.0",
+  "description": "a wrapper for the kodi jsonrpc api that can be used in a browser or node enviroment.",
+  "main": "detect.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Jephuff/kodi-rpc.git"
+  },
+  "author": "Jeffrey Burt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jephuff/kodi-rpc/issues"
+  },
+  "homepage": "https://github.com/Jephuff/kodi-rpc",
+  "dependencies": {
+    "node-fetch": "^1.3.2",
+    "whatwg-fetch": "^0.9.0"
+  }
+}
